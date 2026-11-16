@@ -42,6 +42,10 @@ The app uses OpenCV's `BackgroundSubtractorMOG2` to detect motion and highlights
    pip install -r requirements.txt
    ```
 
+## Demo
+
+Live demo: https://objecttracking-rxqg8gtwc82apkavhudvlt.streamlit.app/
+
 ## Run
 
 Start the Streamlit app:
